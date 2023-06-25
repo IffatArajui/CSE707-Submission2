@@ -10,7 +10,7 @@ Link to the paper:
 https://github.com/papers-we-love/papers-we-love/tree/master/distributed-file-systems 
 
 Group Number:
-3
+03
 
 Individual Submitter:
 23166010 Name Iffat Ara Jui
